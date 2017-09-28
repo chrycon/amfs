@@ -4,3 +4,4 @@ elements of water, light and music, to produce a synchronised performance given 
 which we extract a selection of features that are deemed helpful to the performance, using known music information retrieval methods.
 
 As the total project is over 2GB large, only the main files are kept in this repo.
+Sample video: https://vimeo.com/226422265
